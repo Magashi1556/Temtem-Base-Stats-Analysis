@@ -162,6 +162,7 @@ Classificação Tier S
 
 Este resultado indica um perfil altamente eficiente para estratégias ofensivas rápidas.
 
+
 📁 Estrutura do Repositório
 📦 temtem-analysis
  ┣ 📂 data
@@ -171,6 +172,7 @@ Este resultado indica um perfil altamente eficiente para estratégias ofensivas 
  ┣ 📂 powerbi
  ┃ ┗ temtem_dashboard.pbix
  ┣ README.md
+
 
 📌 Observações
 
