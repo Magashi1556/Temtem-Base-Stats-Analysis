@@ -163,15 +163,19 @@ Classificação Tier S
 Este resultado indica um perfil altamente eficiente para estratégias ofensivas rápidas.
 
 
-📁 Estrutura do Repositório
-📦 temtem-analysis
- ┣ 📂 data
- ┃ ┗ temtem_base_stats.csv
- ┣ 📂 notebooks / scripts
- ┃ ┗ temtem-stats.py
- ┣ 📂 powerbi
- ┃ ┗ temtem_dashboard.pbix
- ┣ README.md
+## 📁 Estrutura do Repositório
+
+```text
+temtem-analysis/
+├── data/
+│   └── temtem_base_stats.csv
+├── scripts/
+│   └── temtem-stats.py
+├── powerbi/
+│   └── temtem_dashboard.pbix
+└── README.md
+```
+
 
 
 📌 Observações
