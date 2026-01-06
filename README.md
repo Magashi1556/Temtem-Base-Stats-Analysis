@@ -4,7 +4,7 @@ Este projeto tem como objetivo realizar uma análise exploratória e comparativa
 
 A análise busca identificar:
 
-– Os Temtem com melhor desempenho geral
+Os Temtem com melhor desempenho geral
 
 - Perfis ofensivos, defensivos e de velocidade
 
